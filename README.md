@@ -1,2 +1,5 @@
-# night_on_campus
-Short text-based horror game
+# Night on Campus
+A short text-based horror game developed for a university project.
+
+URL:
+
